@@ -5,8 +5,10 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
+Adeesh A
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+How to break a complex problem into simpler subproblem.
+Classic example of dynamic programming would be fibonacci series.
+We can solve the fibonacci series problem by using recursion.
 
 
